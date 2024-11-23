@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--- Basic Page Needs  -->
+<meta charset="utf-8"/>
+<title>What is a chatbot? What are chatbots for and how do companies use them?</title>
+<meta content="A chatbot is an artificial intelligence (AI) program that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile applications or by phone." name="description"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!-- Mobile Specific Meta  -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<!-- CSS -->
+<link href="bienes/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="bienes/css/jquery-ui.css" rel="stylesheet"/>
+<link href="bienes/css/all.min.css" rel="stylesheet"/>
+<link href="bienes/css/magnific-popup.css" rel="stylesheet"/>
+<link href="bienes/css/owl.carousel.min.css" rel="stylesheet"/>
+<link href="bienes/css/animate.css" rel="stylesheet"/>
+<link href="bienes/css/stellarnav.min.css" rel="stylesheet"/>
+<link href="bienes/css/pignose.calendar.min.css" rel="stylesheet"/>
+<link href="fonts/stylesheet.css" rel="stylesheet"/>
+<link href="bienes/css/style.css" rel="stylesheet"/>
+<link href="bienes/css/responsive.css" rel="stylesheet"/>
+<!-- Favicon -->
+<link href="img/favicon.ico" rel="shortcut icon" type="image/png"/>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-124562226-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'region': ['AT', 'BE', 'HR', 'BG', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE','IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'GB', 'BR', 'US-CA']
+});
+gtag('consent', 'default', {
+  'analytics_storage': 'denied',
+  'region': ['AT', 'BE', 'HR', 'BG', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE','IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'GB', 'BR', 'US-CA']
+});
+gtag('js', new Date());
+
+  gtag('config', 'UA-124562226-1');
+gtag('config', 'AW-986753472');</script>
+<link href="https://admin.chatcompose.com/static/EN/global/export/css/main.0ec6acf6.css" rel="stylesheet"/> <script async="" src="https://admin.chatcompose.com/static/EN/global/export/js/main.dec259c7.js" type="text/javascript" user="chaten"></script>
+</head>
+<body class="">
+<div id="preloader"></div>
+<header class="home3-header">
+<div class="header-container">
+<div class="row">
+<div class="col-lg-2 col-md-3 col-sm-4 col-6">
+<div class="logo">
+<a class="link" href="/"><img alt="" heigth="67" src="pics/loghi.png" width="198"/></a>
+</div>
+</div>
+<div class="col-lg-8 col-md-3 col-sm-8 col-6">
+<div class="main-menu stellarnav">
+<ul>
+<li> <a href="usecases.html">Use Cases</a></li>
+<li class="active"> <a href="guides.html">Guides</a><ul> <li> <a href="course.html">Course</a> </li> </ul> </li> 
+<li> <a href="prices.html">Pricing</a> </li>
+<li> <a href="channels.html">Channels</a>
+<ul>  <li> <a href="phone.html">Telephone</a> </li> </ul></li>
+<li><a href="languages.html">Languages</a></li>
+<li>
+<a href="contact.html">Contact</a>
+</li>
+<li>
+<a href="seedemo.html">Demo</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-lg-2 col-md-6 col-sm-7 col-12 d-none d-md-block">
+<div class="header-right">
+<div class="get-quote">
+<a class="link btn-style-1" href="https://admin.chatcompose.com/registernow">Start</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+       <section class="home3-featuer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-12">
+                    <div class="section-title-3">
+<h2 class="title">What is a chatbot?</h2>
+<h4>What are chatbots for and how do companies use them?</h4>
+<p>A chatbot is an artificial intelligence (AI) program that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile applications or by phone.</p>
+<p>An example. You want to buy some shoes from your local retail store, you have to access their website, find what you are looking for and buy it. But what if that store had a bot? It would only be necessary to write a message to the brand through Facebook and tell them what we want. And if you had doubts about size measurements you could gt answers to your problem in a moment.</p>
+<p>One of the great advantages of chatbots is that, unlike applications, they are not downloaded, it is not necessary to update them and they do not take up space in the phone's memory. Another one is that we can have several bots integrated in the same chat.</p>
+<img alt="" class="promo-section__img" src="bot.png"/>
+<p></p>
+<p>This way we would avoid jumping from one app to another according to what we need at each moment. The consequences? More pleasant user experiences and faster and simpler customer service interactions.</p>
+<p>Why are chatbots important? A chatbot is often described as one of the most advanced and promising expressions of human-machine interaction. However, from a technological point of view, a chatbot only represents the natural evolution of a response system to questions that takes advantage of natural language processing (NLP).</p>
+<p>The formulation of answers to questions in natural language is one of the most typical examples of natural language processing applied in companies.</p>
+<p>So, what is a chatbot? It is a piece of software that is designed to automate a specific task. More specifically, a chatbot is essentially a conversational user interface that can be connected to a series of data sources through an API so that it can offer information or services on demand, such as weather forecasts, breaking news, status updates o order information.</p>
+<h2>Open and closed chatbots</h2>
+<p>Depending on their use case, chatbots can be either open or closed. Open chatbots are those that use artificial intelligence to process language and learn from their interactions with users. </p>
+<p>Closed chatbots are those that only and exclusively execute a conversation flow or script that may or may not use artificial intelligence depending on how it evaluates user messages.</p>
+<p>Open chatbots may support a more natural way of conversing, however, if they have not been properly trained there is a risk of a poor user experience.On the other hand closed chatbots have a lower risk of poor user experience and they have the advantage that they can direct a conversation towards a specific goal or process.</p>
+<p>More information at:</p>
+<ul class="special" style="text-align: left">
+<li><a href="conversational-scripts.html">How to create conversation scripts</a></li>
+<li><a href="train-chatbot.html">How to train your chatbot with answers</a></li>
+</ul>
+<h2><strong>Why are chatbots important?</strong></h2>
+<p>Chatbot applications streamline the interactions between people and services, improving customer experience. At the same time, they offer companies new opportunities to improve the process of customer engagement and operational efficiency by reducing the typical cost of customer service.</p>
+<p>To be successful, a chatbot solution should be able to perform tasks effectively. Human support plays a key role here: regardless of the type of approach and platform, human intervention is crucial to configure, train and optimize the chatbot system.</p>
+<h2><strong>What chatbot platform is right for you?</strong></h2>
+<p>There are different approaches and tools that you can use to develop a chatbot. Depending on the use case you want to address, some chatbot technologies are more appropriate than others.</p>
+<p>To achieve the desired results, the combination of different forms of AI such as natural language processing, machine learning and semantic comprehension may be the best option.</p>
+<p>The best platforms offer two types of chatbot configuration, directed conversations and free-form conversations. A directed conversations is where a chatbot guides the user through a series of options and questions towards a particular goal. A free-form conversation gives the user more control over the conversation by letting him send messages without the chatbot restricting his options.</p>
+<h2><strong>What are the chatbots for? How do companies use them?</strong></h2>
+<p>The rapid evolution of AI in the last decade has generated a growth in adoption of these robots by companies.</p>
+<p>Large companies such as Skype, Telegram or Facebook have opted for conversational bots, in addition to a large number of Start-ups, offering great support for customer service.</p>
+<p>The main usages for chatbots are:</p>
+<h3><strong>Customer service</strong></h3>
+<p>As you had anticipated, in the vast majority of cases they are used to perform the customer service functions in social networks, apps and websites.</p>
+<p>They can collect registration data, provide information, answer frequently asked questions, etc.</p>
+<p>By improving the engagement of current and potential customers they make interactions with services faster and simpler, generating better experiences for the user.</p>
+<h3><strong>Online purchases and payments management</strong></h3>
+<p>Chatbots help to simplify the online shopping and payment processes. They provide information and solve the problems that users have throughout the purchase decision process.</p>
+<p>They can also perform searches, provide similar products or even allow payments from the conversation chat itself. Read more at <a href="managepayments.html">chatbots to manage payments</a>.</p>
+<h3><strong>Sending information and news about your company</strong></h3>
+<p>Some are able to send information and news of the company in an automated way to customers and potential buyers of our online business.</p>
+<p>If it is used properly, it can be a very useful tool for any company or brand.</p>
+<h3><strong>Generate and qualify leads</strong></h3>
+<p>A chatbot can be designed to capture important user information such as email, phone etc. and send that information to sales representatives so they can do follow-ups on the conversation. Then can also filter and qualify potential customers by asking questions and evaluating the response, to filter and only send the most valuable leads to your sales team.</p>
+<h3><strong>Make and manage Reservations and Appointments</strong></h3>
+<p>Chatbots are also able to automate the process of reservations and appointments by displaying availability on a calendar and taking the date selection.</p>
+<img alt="" class="promo-section__img" src="pics/book.png"/>
+<p>Read more at <a href="scheduling-bot.html">chatbots to make reservations</a>.</p>
+<h3><strong>Build trust and improve engagement</strong></h3>
+<p>Generating an environment of trust between your business and your potential customers is a fundamental factor, and having a chatbot can help you in that.</p>
+<p>Chatbots show your commitment to customer experience.</p>
+<h3><strong>Assistant 24/7</strong></h3>
+<p>One of its most attractive features is that, by being programmed to fulfill certain functions within a digital medium, they are available 24/7. One chatbot can provide immediate answers to simultaneous users at once. </p>
+<h2>How do I build a chatbot?</h2>
+<p>If you are not a developer, or are looking for a simpler approach that does not require programming, you can <a href="https://admin.chatcompose.com/registernow">try our chatbot platform ChatCompose</a>.</p>
+<p>You can create a chatbot with just a few steps, and for a variety of <a href="/usecases.html">use cases</a>. Trial plans are free for 15 days.</p>
+                    </div>
+                </div>
+            </div>
+ 
+        </div>
+    </section>
+<section class="home5-get-app-area">
+<div class="container">
+<div class="home5-get-app-contents">
+<div class="row">
+<div class="col-lg-7 col-sm-8 col-12">
+<div class="section-title">
+<h5 class="intro">Would you like to know more?</h5>
+<h2 class="title">Get more information</h2>
+</div>
+</div>
+<div class="col-lg-5 col-sm-4 col-12 d-flex align-items-center">
+<div class="h5gac-link">
+<a class="link btn-hvr-anim-top btn-style-1" href="contact.html">Contact us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="home5-footer">
+<div class="container">
+<div class="home5-footer-top-area">
+<div class="row">
+<div class="col-lg-3 col-sm-7 col-12">
+<div class="h5fw-info home5-footer-widget">
+<h2 class="logo">Chat<span style="color:#ffcb59;">Compose</span></h2>
+<p class="text">Create your own chatbot with Artificial Intelligence, design conversation and sales scripts, and deploy your chatbot across most popular channels and media.</p>
+</div>
+</div>
+<div class="col-lg-3 col-sm-5 col-12">
+<div class="h5fw-links home5-footer-widget">
+<h3 class="title">Resources</h3>
+<ul class="links">
+<li><a href="guides.html">Guides</a></li>
+<li><a href="channels.html">Channels</a></li>
+<li><a href="usecases.html">Use Cases</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-5 col-12">
+<div class="h5fw-links home5-footer-widget">
+<h3 class="title">Terms and Privacy</h3>
+<ul class="links">
+<li><a href="terms.html">Terms and Conditions</a></li>
+<li><a href="privacy.html">Privacy Policy</a></li>
+<li><a href="prices.html">Pricing</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-3 col-sm-7 col-12">
+<div class="h5fw-subscribe home5-footer-widget">
+<h3 class="title">Start</h3>
+<div class="suscribe">
+<a class="link btn-hvr-anim-top btn-style-1" href="https://admin.chatcompose.com/registernow">Register</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home5-footer-bottom-area">
+<p class="copyright">Copyright ChatCompose - 2019</p>
+</div>
+</div>
+</footer>
+<!-- Scripts -->
+<script src="bienes/js/jquery-3.3.1.min.js"></script>
+<script src="bienes/js/jquery-ui.js"></script>
+<script src="bienes/js/wow.min.js"></script>
+<script src="bienes/js/owl.carousel.min.js"></script>
+<script src="bienes/js/jquery.counterup.min.js"></script>
+<script src="bienes/js/countdown.js"></script>
+<script src="bienes/js/pignose.calendar.min.js"></script>
+<script src="bienes/js/isotope.pkgd.min.js"></script>
+<script src="bienes/js/imagesloaded.pkgd.min.js"></script>
+<script src="bienes/js/jquery.magnific-popup.min.js"></script>
+<script src="bienes/js/stellarnav.min.js"></script>
+<script src="bienes/js/jquery.scrollUp.js"></script>
+<script src="bienes/js/jquery.waypoints.min.js"></script>
+<script src="bienes/js/popper.min.js"></script>
+<script src="bienes/js/bootstrap.min.js"></script>
+<script src="bienes/js/theme.js"></script>
+</body>
+</html>
